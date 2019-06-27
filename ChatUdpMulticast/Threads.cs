@@ -103,7 +103,7 @@ namespace ChatUdpMulticast
                 
                 if (!myNick.Equals(nick[1]) && !myNick.Equals("") &&!nick[0].Equals("NICK"))
                 {
-                    Console.WriteLine(strData + " " + myNick);
+                    Console.WriteLine(strData);
                 }
 
             }
