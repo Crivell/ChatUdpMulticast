@@ -1,0 +1,6 @@
+D:\Polibuda\Semestr6\sieci\ChatUdpMulticast\ChatUdpMulticast\bin\Release\ChatUdpMulticast.exe.config
+D:\Polibuda\Semestr6\sieci\ChatUdpMulticast\ChatUdpMulticast\bin\Release\ChatUdpMulticast.exe
+D:\Polibuda\Semestr6\sieci\ChatUdpMulticast\ChatUdpMulticast\bin\Release\ChatUdpMulticast.pdb
+D:\Polibuda\Semestr6\sieci\ChatUdpMulticast\ChatUdpMulticast\obj\Release\ChatUdpMulticast.csproj.CoreCompileInputs.cache
+D:\Polibuda\Semestr6\sieci\ChatUdpMulticast\ChatUdpMulticast\obj\Release\ChatUdpMulticast.exe
+D:\Polibuda\Semestr6\sieci\ChatUdpMulticast\ChatUdpMulticast\obj\Release\ChatUdpMulticast.pdb
